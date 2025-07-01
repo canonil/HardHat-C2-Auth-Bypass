@@ -11,9 +11,7 @@ options:
 	
   -u, --user USER       User and password that will be created
 	
-  -p, --password PASSWORD
-	
-                        User and password that will be created
+  -p, --password PASSWORD	User and password that will be created
 												
   -i, --ip IP           The IP of the HardHat C2 running on
 	
